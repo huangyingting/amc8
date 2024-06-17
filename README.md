@@ -1,13 +1,17 @@
 # AMC 8 准备
 
 ## AMC8资料
-### Courses
+### 课程
 [AMC 8 Part I & II](https://github.com/tomkite/amc8)
-### Books
+### 书籍
 [Mastering AMC 8](https://www.omegalearn.org/mastering-amc8)
-### Videos
+### 视频讲座
 [AMC 8 Fundamentals Course](https://www.omegalearn.org/amc8-fundamentals)
 [AMC 8 Advanced/MATHCOUNTS](https://www.omegalearn.org/amc8-advanced)
+### 在线练习
+[Past AMC 8 and AMC 10 Problems](https://live.poshenloh.com/past-contests)
+### 过往考试
+[AMC 8 Problems and Solutions](https://artofproblemsolving.com/wiki/index.php/AMC_8_Problems_and_Solutions)
 
 ## AMC 8 考点
 
